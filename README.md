@@ -42,7 +42,7 @@ Please ensure these paths are correct or updated in the notebook.
 Clone the repository:
 
 ```bash
-git clone https://github.com/kamlasafdar/yelp-dataset-etl.git
+git clone https://github.com/kamlasafdar/yelp-data-pipeline.git
 cd yelp-dataset-etl
 
 ```
