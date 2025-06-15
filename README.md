@@ -22,17 +22,7 @@ The primary goal is to prepare raw Yelp dataset JSON files for structured queryi
 
 ## 🗂️ Project Structure
 
-.
-├── business_fixed.json # Cleaned and processed business data
-├── checkin_fixed.json # Cleaned and processed check-in data
-├── review_fixed.json # Cleaned and processed review data
-├── tip_fixed.json # Cleaned and processed tip data
-├── user_fixed.json # Cleaned and processed user data
-├── extracted_business_data.json # Intermediate extracted business data
-├── businesses.csv # CSV for core business information
-├── categories.csv # CSV for business categories
-├── checkins.csv # CSV for check-in records
-└── Yelp-data-Proccessing.ipynb # Main Jupyter Notebook with ETL logic
+<pre> ``` . ├── business_fixed.json # Cleaned and processed business data ├── checkin_fixed.json # Cleaned and processed check-in data ├── review_fixed.json # Cleaned and processed review data ├── tip_fixed.json # Cleaned and processed tip data ├── user_fixed.json # Cleaned and processed user data ├── extracted_business_data.json # Intermediate extracted business data ├── businesses.csv # CSV for core business information ├── categories.csv # CSV for business categories ├── checkins.csv # CSV for check-in records └── 21F-9132 kamla safdar.ipynb # Main Jupyter Notebook with ETL logic ``` </pre>
 
 
 > **Note:** Original Yelp JSON files are assumed to be located at  
